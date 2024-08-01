@@ -19,7 +19,7 @@ const TabIcon = ({icon, color, name, focused}) => {
 
 const TabsLayout = () => {
   return (
-    <>
+    <> 
     <Tabs
       screenOptions={{
         tabBarShowLabel: false,
